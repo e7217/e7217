@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+- 🛠🛠🛠🛠🛠
+  + python / nodejs
+  + IIoT ( smartfactory )
+  + docker / kubernetes
+  + vue
+  + flask/fastapi
+
+- types of project
+  + collecting data / controlling device
+  + frontend
+  + backend
+  + virtualization
+  + crawling / scrapying
+  + data processing
+  + build environments to develop
+
 <!--
 **e7217/e7217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
