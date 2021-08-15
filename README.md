@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🛠🛠🛠🛠🛠
+## 🛠🛠🛠🛠🛠
   + python / nodejs
   + IIoT ( smartfactory )
   + docker / kubernetes
   + vue
   + flask/fastapi
 
-- types of project
+## types of project
   + collecting data / controlling device
   + frontend
   + backend
