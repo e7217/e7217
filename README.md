@@ -12,6 +12,7 @@
   + frontend
   + backend
   + virtualization
+  + visualization
   + crawling / scrapying
   + data processing
   + build environments to develop
