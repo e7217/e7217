@@ -8,7 +8,7 @@
   + flask/fastapi
 
 ## types of project
-  + collecting data / controlling device
+  + data collection / device control
   + frontend
   + backend
   + virtualization
