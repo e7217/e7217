@@ -18,7 +18,7 @@
   + build environments to develop
 
 ## Portfolio in notion
-https://stormy-beat-1d9.notion.site/Portfolio-60b54da6d63e47d785b76100b1e9acba
+📌 https://stormy-beat-1d9.notion.site/Portfolio-60b54da6d63e47d785b76100b1e9acba
 
 <!--
 **e7217/e7217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
