@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+</head>
+  
 ### Hi there 👋
 
 ## 🛠🛠🛠🛠🛠
@@ -6,6 +10,10 @@
   + docker / kubernetes
   + vue
   + flask/fastapi
+
+<i class="devicon-python-plain"></i>
+</br>
+
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />][python]
 
 ## types of project
