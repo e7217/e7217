@@ -2,7 +2,6 @@
 ### Hi 👋
 
 ## 🛠🛠🛠🛠🛠
-<div class="pull-left">
 ##### Language
 
 Python / JavaScript
@@ -33,9 +32,6 @@ Docker / Kubernetes
 <img src='.icons/kubernetes-plain.svg' width="25">
 </div>
 
-</div>
-
-<div class="pull-right">
 ##### FrontEnd
 
 Vue / Electron
@@ -63,9 +59,7 @@ DB... / Naver Cloud Platform
 <img src='.icons/mongodb-original.svg' width="25"> 
 </div>
 
-</div>
 <!-- <img src='.icons/sqlalchemy-original.svg' width="50">  -->
-<div>
 ## types of project
   + data collection / device control
   + frontend
@@ -93,4 +87,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
