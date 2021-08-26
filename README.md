@@ -2,7 +2,7 @@
 ### Hi 👋
 
 ## 🛠🛠🛠🛠🛠
-##### Language
+#### Language
 
 Python / JavaScript
 
@@ -12,7 +12,7 @@ Python / JavaScript
 <img src='.icons/nodejs-original.svg' width="25"> 
 </div>
 
-##### IIoT ( smartfactory )
+#### IIoT ( smartfactory )
 
 EdgeX / KubeEdge / Python
 
@@ -23,7 +23,7 @@ EdgeX / KubeEdge / Python
 <img src='.icons/ubuntu-plain.svg' width="25"> 
 </div>
 
-##### Infra
+#### Infra
 
 Docker / Kubernetes
 
@@ -32,7 +32,7 @@ Docker / Kubernetes
 <img src='.icons/kubernetes-plain.svg' width="25">
 </div>
 
-##### FrontEnd
+#### FrontEnd
 
 Vue / Electron
 
@@ -41,7 +41,7 @@ Vue / Electron
 <img src='.icons/electron-original.svg' width="25"> 
 </div>
 
-##### BackEnd
+#### BackEnd
 
 Django / Flask / FastAPI
 
@@ -50,7 +50,7 @@ Django / Flask / FastAPI
 <img src='.icons/flask-original.svg' width="25"> 
 </div>
 
-##### Etc.
+#### Etc.
 
 DB... / Naver Cloud Platform 
 
