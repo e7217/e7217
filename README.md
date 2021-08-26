@@ -1,22 +1,54 @@
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-</head>
-  
-### Hi there 👋
+ 
+### Hi 👋
 
 ## 🛠🛠🛠🛠🛠
-  + python / nodejs
-  + IIoT ( smartfactory )
-  + docker / kubernetes
-  + vue
-  + flask/fastapi
+##### Language
 
-<body>
-<i class="devicon-python-plain"></i>
-</body>
-  </br>
++ Python / JavaScript
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />][python]
+<img src='.icons/python-original.svg' width="50"> 
+<img src='.icons/javascript-original.svg' width="50"> 
+<img src='.icons/nodejs-original.svg' width="50"> 
+
+##### IIoT ( smartfactory )
+
++ EdgeX / KubeEdge / Python
+
+<img src='.icons/raspberrypi-original.svg' width="50"> 
+<img src='.icons/windows8-original.svg' width="50"> 
+<img src='.icons/linux-original.svg' width="50"> 
+<img src='.icons/ubuntu-plain.svg' width="50"> 
+
+##### Infra
+
++ Docker / Kubernetes
+
+<img src='.icons/docker-original.svg' width="50"> 
+<img src='.icons/kubernetes-plain.svg' width="50">
+
+##### FrontEnd
+
++ Vue / Electron
+
+<img src='.icons/vuejs-original.svg' width="50"> 
+<img src='.icons/electron-original.svg' width="50"> 
+
+##### BackEnd
+
++ Django / Flask / FastAPI
+
+<img src='.icons/django-original.svg' width="50"> 
+<img src='.icons/flask-original.svg' width="50"> 
+
+##### Etc.
+
++ DB... / Naver Cloud Platform 
+
+<img src='.icons/postgresql-original.svg' width="50"> 
+<img src='.icons/mongodb-original.svg' width="50"> 
+
+
+<!-- <img src='.icons/sqlalchemy-original.svg' width="50">  -->
 
 ## types of project
   + data collection / device control
