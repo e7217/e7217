@@ -11,8 +11,10 @@
   + vue
   + flask/fastapi
 
-[<i class="devicon-python-plain"></i>][python]
-</br>
+<body>
+<i class="devicon-python-plain"></i>
+</body>
+  </br>
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />][python]
 
