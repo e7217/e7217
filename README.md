@@ -4,59 +4,59 @@
 ## 🛠🛠🛠🛠🛠
 ##### Language
 
-+ Python / JavaScript
+Python / JavaScript
 
 <div float="left">
-<img src='.icons/python-original.svg' width="50"> 
-<img src='.icons/javascript-original.svg' width="50"> 
-<img src='.icons/nodejs-original.svg' width="50"> 
+<img src='.icons/python-original.svg' width="25"> 
+<img src='.icons/javascript-original.svg' width="25"> 
+<img src='.icons/nodejs-original.svg' width="25"> 
 </div>
 
 ##### IIoT ( smartfactory )
 
-+ EdgeX / KubeEdge / Python
+EdgeX / KubeEdge / Python
 
 <div float="left">
-<img src='.icons/raspberrypi-original.svg' width="50"> 
-<img src='.icons/windows8-original.svg' width="50"> 
-<img src='.icons/linux-original.svg' width="50"> 
-<img src='.icons/ubuntu-plain.svg' width="50"> 
+<img src='.icons/raspberrypi-original.svg' width="25"> 
+<img src='.icons/windows8-original.svg' width="25"> 
+<img src='.icons/linux-original.svg' width="25"> 
+<img src='.icons/ubuntu-plain.svg' width="25"> 
 </div>
 
 ##### Infra
 
-+ Docker / Kubernetes
+Docker / Kubernetes
 
 <div float="left">
-<img src='.icons/docker-original.svg' width="50"> 
-<img src='.icons/kubernetes-plain.svg' width="50">
+<img src='.icons/docker-original.svg' width="25"> 
+<img src='.icons/kubernetes-plain.svg' width="25">
 </div>
 
 ##### FrontEnd
 
-+ Vue / Electron
+Vue / Electron
 
 <div float="left">
-<img src='.icons/vuejs-original.svg' width="50"> 
-<img src='.icons/electron-original.svg' width="50"> 
+<img src='.icons/vuejs-original.svg' width="25"> 
+<img src='.icons/electron-original.svg' width="25"> 
 </div>
 
 ##### BackEnd
 
-+ Django / Flask / FastAPI
+Django / Flask / FastAPI
 
 <div float="left">
-<img src='.icons/django-original.svg' width="50"> 
-<img src='.icons/flask-original.svg' width="50"> 
+<img src='.icons/django-original.svg' width="25"> 
+<img src='.icons/flask-original.svg' width="25"> 
 </div>
 
 ##### Etc.
 
-+ DB... / Naver Cloud Platform 
+DB... / Naver Cloud Platform 
 
 <div float="left">
-<img src='.icons/postgresql-original.svg' width="50"> 
-<img src='.icons/mongodb-original.svg' width="50"> 
+<img src='.icons/postgresql-original.svg' width="25"> 
+<img src='.icons/mongodb-original.svg' width="25"> 
 </div>
 
 <!-- <img src='.icons/sqlalchemy-original.svg' width="50">  -->
