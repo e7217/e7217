@@ -67,8 +67,6 @@ DB... / Naver Cloud Platform
   + virtualization
   + visualization
   + crawling / scrapying
-  + data processing
-  + build environments to develop
 
 ## Portfolio in notion
 📌 https://stormy-beat-1d9.notion.site/Portfolio-60b54da6d63e47d785b76100b1e9acba
