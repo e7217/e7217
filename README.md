@@ -8,7 +8,6 @@ Python / JavaScript
 
 <div float="left">
 <img src='.icons/python-original.svg' width="25"> 
-<img src='.icons/dotnet-original.svg' width="25"> 
 <img src='.icons/javascript-original.svg' width="25"> 
 <img src='.icons/nodejs-original.svg' width="25"> 
 </div>
