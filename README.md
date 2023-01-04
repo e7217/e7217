@@ -8,10 +8,11 @@ Python / JavaScript
 
 <div float="left">
 <img src='.icons/python-original.svg' width="25"> 
-<img src='.icons/javascript-original.svg' width="25"> 
+<img src='.icons/dotnet-original.svg' width="25"> 
 <img src='.icons/nodejs-original.svg' width="25"> 
 </div>
 
+<!--
 #### IIoT ( smartfactory )
 
 EdgeX / KubeEdge / Python
@@ -67,6 +68,8 @@ DB... / Naver Cloud Platform
   + virtualization
   + visualization
   + crawling / scrapying
+-->
+
 
 ## Portfolio in notion
 📌 https://stormy-beat-1d9.notion.site/Portfolio-60b54da6d63e47d785b76100b1e9acba
