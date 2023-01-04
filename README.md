@@ -4,7 +4,7 @@
 ## 🛠🛠🛠🛠🛠
 #### Language
 
-Python / JavaScript
+Python / dotnet / JavaScript
 
 <div float="left">
 <img src='.icons/python-original.svg' width="25"> 
@@ -59,8 +59,10 @@ DB... / Naver Cloud Platform
 <img src='.icons/postgresql-original.svg' width="25"> 
 <img src='.icons/mongodb-original.svg' width="25"> 
 </div>
+-->
 
 <!-- <img src='.icons/sqlalchemy-original.svg' width="50">  -->
+<!--
 ## types of project
   + data collection / device control
   + frontend
@@ -68,7 +70,7 @@ DB... / Naver Cloud Platform
   + virtualization
   + visualization
   + crawling / scrapying
--->
+  -->
 
 
 ## Portfolio in notion
