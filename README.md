@@ -23,7 +23,7 @@ Python / dotnet / JavaScript / golang
 - ✨ Add vLLM integration to apply lora_request - [PR #27731](https://github.com/langchain-ai/langchain/pull/27731)
 
 ### [Langchain-Naver-Community](https://github.com/e7217/langchain-naver-community)
-Community-driven Naver integrations for LangChain! Seamlessly connect Naver's search, translation, and AI services with LangChain to build powerful AI-driven applications
+A python package that integrates Naver's various APIs with LangChain, making it easier to build powerful applications using Naver's services within the LangChain ecosystem.
 
 ### [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
 - 🐛 same Items in parsed_result by Concatenating Each Parsed Result - [PR #30392](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1066)
