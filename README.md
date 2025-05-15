@@ -39,7 +39,7 @@ A python package that integrates Naver's various APIs with LangChain, making it 
 - 📝 Modify contents on upstage parser - [PR #967](https://github.com/Marker-Inc-Korea/AutoRAG/pull/967)
 
 ### [pytorch](https://github.com/pytorch/pytorch)
-- 🐛 Suggest additional details to help clarify the situation of process group initialization failures - [PR #141796](https://github.com/pytorch/pytorch/pull/141796)
+- 🐛 Add detailed error context to help diagnose process group initialization failures - [PR #141796](https://github.com/pytorch/pytorch/pull/141796)
 
 ### [PyGithub](https://github.com/PyGithub/PyGithub)
 - ✨ Add support for Sub-Issues - [PR #3258](https://github.com/PyGithub/PyGithub/pull/3258)
