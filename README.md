@@ -89,3 +89,4 @@ Here are some ideas to get you started:
 -->
 
 [![Changyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=e7217&show_icons=true&include_all_commits=false)](https://github.com/e7217/)
+[![Changyong's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={e7217})](https://github.com/e7217/)
