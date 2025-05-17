@@ -25,6 +25,9 @@ Python / dotnet / JavaScript / golang
 ### [Langchain-Naver-Community](https://github.com/e7217/langchain-naver-community)
 A python package that integrates Naver's various APIs with LangChain, making it easier to build powerful applications using Naver's services within the LangChain ecosystem.
 
+### [Langchain-upstage](https://github.com/langchain-ai/langchain-upstage)
+- 🐛 remove unused parameter: `output_type` - [PR #33] (https://github.com/langchain-ai/langchain-upstage/pull/33)
+
 ### [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
 - 🐛 same Items in parsed_result by Concatenating Each Parsed Result - [PR #30392](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1066)
 - ✨ Add dynamic embedding models - [PR #1063](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1063)
