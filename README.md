@@ -43,6 +43,9 @@ A python package that integrates Naver's various APIs with LangChain, making it 
 
 ### [pytorch](https://github.com/pytorch/pytorch)
 - 🐛 Add explicit error handling and improve diagnostics for uninitialized process group access in `_world.pg_map` - [PR #141796](https://github.com/pytorch/pytorch/pull/141796)
+- 
+### [go-github](https://github.com/google/go-github)
+- ✨ Add support for Sub-Issues - [PR #3580](https://github.com/google/go-github/pull/3580)
 
 ### [PyGithub](https://github.com/PyGithub/PyGithub)
 - ✨ Add support for Sub-Issues - [PR #3258](https://github.com/PyGithub/PyGithub/pull/3258)
