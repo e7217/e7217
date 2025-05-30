@@ -2,17 +2,18 @@
 ### Hi 👋
 
 ## 🛠🛠🛠🛠🛠
-#### Language
+<div align="center">
+  <h4>Language</h4>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="25"> 
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="25"> 
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="25"> 
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="25"> 
 
-Python / dotnet / JavaScript / golang
-
-<!--<div float="left">
-<img src='.icons/python-original.svg' width="25"> 
-<img src='.icons/dotnet-original.svg' width="25"> 
-<img src='.icons/nodejs-original.svg' width="25"> 
-</div>-->
+<h4> Activity stats </h4>
 
 [![Changyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=e7217&show_icons=true&include_all_commits=false)](https://github.com/e7217/)
+
+</div>
 
 ## Open Source Contributions
 ### [Langchain](https://github.com/langchain-ai/langchain)
