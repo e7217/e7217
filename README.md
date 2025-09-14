@@ -16,7 +16,7 @@
 </div>
 
 ## Open Source Contributions
-### [Langchain](https://github.com/langchain-ai/langchain)
+### [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 - ✨ Integrate a tool for the naver_search - [PR #30392](https://github.com/langchain-ai/langchain/pull/30392)
 - ✨ Add configurable text key for indexing and the retriever in Pinecone Hybrid Search - [PR #29697](https://github.com/langchain-ai/langchain/pull/29697)
 - 📝 Modify parameter for the LoRA adapter on the vllm page - [PR #27930](https://github.com/langchain-ai/langchain/pull/27930)
@@ -26,10 +26,10 @@
 ### [Langchain-Naver-Community](https://github.com/e7217/langchain-naver-community)
 A python package that integrates Naver's various APIs with LangChain, making it easier to build powerful applications using Naver's services within the LangChain ecosystem.
 
-### [Langchain-upstage](https://github.com/langchain-ai/langchain-upstage)
+### [langchain-ai/langchain-upstage](https://github.com/langchain-ai/langchain-upstage)
 - 🐛 remove unused parameter: `output_type` - [PR #33](https://github.com/langchain-ai/langchain-upstage/pull/33)
 
-### [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
+### [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
 - 🐛 same Items in parsed_result by Concatenating Each Parsed Result - [PR #30392](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1066)
 - ✨ Add dynamic embedding models - [PR #1063](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1063)
 - ✨ Add intfloat/multilingual-e5-large-instruct to embedding model - [PR #1061](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1061)
@@ -42,15 +42,15 @@ A python package that integrates Naver's various APIs with LangChain, making it 
 - 🐛 Change default similarity_metric for milvus - [PR #1000](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1000)
 - 📝 Modify contents on upstage parser - [PR #967](https://github.com/Marker-Inc-Korea/AutoRAG/pull/967)
 
-### [pytorch](https://github.com/pytorch/pytorch)
+### [pytorch/pytorch](https://github.com/pytorch/pytorch)
 - 🐛 Add explicit error handling and improve diagnostics for uninitialized process group access in `_world.pg_map` - [PR #141796](https://github.com/pytorch/pytorch/pull/141796)
 
-### [go-github](https://github.com/google/go-github)
+### [google/go-github](https://github.com/google/go-github)
 - ✨ Add support for Sub-Issues - [PR #3580](https://github.com/google/go-github/pull/3580)
 
-### [PyGithub](https://github.com/PyGithub/PyGithub)
+### [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
 - ✨ Add support for Sub-Issues - [PR #3258](https://github.com/PyGithub/PyGithub/pull/3258)
 
-### [milvus-model](https://github.com/milvus-io/milvus-model)
+### [milvus-io/milvus-model](https://github.com/milvus-io/milvus-model)
 - ✨ Add KiwiTokenizer for Korean text tokenization - [PR #70](https://github.com/milvus-io/milvus-model/pull/70)
 
