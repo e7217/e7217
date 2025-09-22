@@ -30,7 +30,7 @@ A python package that integrates Naver's various APIs with LangChain, making it 
 - 🐛 remove unused parameter: `output_type` - [PR #33](https://github.com/langchain-ai/langchain-upstage/pull/33)
 
 ### [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
-- 🐛 same Items in parsed_result by Concatenating Each Parsed Result - [PR #30392](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1066)
+- 🐛 same Items in parsed_result by Concatenating Each Parsed Result - [PR #1066](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1066)
 - ✨ Add dynamic embedding models - [PR #1063](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1063)
 - ✨ Add intfloat/multilingual-e5-large-instruct to embedding model - [PR #1061](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1061)
 - 🐛 Fix ID Mismatch Error in VectorDB During Evaluation - [PR #1056](https://github.com/Marker-Inc-Korea/AutoRAG/pull/1056)
