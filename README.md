@@ -15,7 +15,7 @@
 
 </div>
 
-## Open Source Contributions
+## Contributions
 ### [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 - ✨ Integrate a tool for the naver_search - [PR #30392](https://github.com/langchain-ai/langchain/pull/30392)
 - ✨ Add configurable text key for indexing and the retriever in Pinecone Hybrid Search - [PR #29697](https://github.com/langchain-ai/langchain/pull/29697)
