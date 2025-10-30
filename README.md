@@ -54,3 +54,7 @@ A python package that integrates Naver's various APIs with LangChain, making it 
 ### [milvus-io/milvus-model](https://github.com/milvus-io/milvus-model)
 - ✨ Add KiwiTokenizer for Korean text tokenization - [PR #70](https://github.com/milvus-io/milvus-model/pull/70)
 
+### [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper)
+**eKuiper**, managed by the Linux Foundation Edge group, is a lightweight data stream processing engine for the IoT edge.
+- ✨ feat(io): add rollingSize option to file sink - [PR ##3910](https://github.com/lf-edge/ekuiper/pull/3910)
+
